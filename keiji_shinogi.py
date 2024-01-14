@@ -5,7 +5,7 @@ from discord.utils import get
 import os
 import regex as re
 
-TOKEN = 'MTA3NDMwMjk2NjkzODQ2ODQwMw.GPtqlj.PE3pV2lf9IdNfbscOKeKBpP-DgLXvWeg2nRH6k'
+TOKEN = ''
 
 deleted = 0
 
